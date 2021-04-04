@@ -1,1 +1,47 @@
 
+
+li{
+	float: left;
+	list-style: none;
+	padding: 25px 20px;
+}
+
+a{
+	text-decoration: none;
+	color: #fff;
+}
+
+.header{
+	height: 70px;
+	font-family: sans-serif;
+	background-color: #ee0000;
+	color: #fff;
+}
+
+.header-logo{
+	float: left;
+	padding: 20px 40px;
+}
+
+.header-logo a{
+	font-family: 'Racing Sans One', cursive;
+	font-size: 25px;
+}
+
+.header-list{
+	padding-left: 700px;
+}
+
+.header-list li:hover{
+	background-color: #172030;
+	transition-duration: 1s;
+	transition-timing-function: ease;
+}
+
+.content{
+
+}
+
+.footer{
+
+}
